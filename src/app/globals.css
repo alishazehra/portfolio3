@@ -7,15 +7,10 @@
   font-size: 60px;
   color: purple; }
 
- @media(min-width:768px){
-img{
-  height: 40%;
-  width: 40%;
-  border-radius: 40%;
-  border: 5px solid pink;
+ 
  
 
-}}
+
  @layer base {
   :root {
     --background:0 0% 100%;

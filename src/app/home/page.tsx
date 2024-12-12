@@ -7,7 +7,7 @@ export default function Home() {
         <header className="hi"><strong>Alisha Zehra</strong></header>
           Welcome to My Portfolio
         </h1> 
-        <img src="alisha.jpg" alt="hi" />
+       
         <p className="mt-4 text-lg text-gray-200">
           A showcase of my projects, skills, and expertise.
         </p>
